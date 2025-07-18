@@ -15,3 +15,5 @@ The code of the operators that use the reliability is in v4/belms/sf*.py (with *
 The code of the operators from (Konieczny, 2000) is in v4/belms/*.py with (*=mcsymm/mcintersect/mcdrastic).
 
 The example used in Table 1 is in v4/examples/bms/exintro.txt.
+
+The proofs for the propositions are available on merging_sf_proofs.pdf.
